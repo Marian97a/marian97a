@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Maria Viana</h1>
+<h1 align="center">👋 Olá! Eu sou a Maria Viana</h1>
 
 <p align="center">
   ✨ Desenvolvedora Full Stack Jr. ✨ <br>
